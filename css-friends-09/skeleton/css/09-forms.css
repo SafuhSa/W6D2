@@ -1,0 +1,43 @@
+/* PHASE 9: Forms */
+.thumb {
+
+}
+
+.poster_img {
+  float: left;
+}
+
+.form-body {
+  float: left;
+  width: calc(100% - 100px);
+  margin: 5px;
+  padding: 5px;
+  background-color: lightgrey;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.form-input {
+  border: 1px solid #f0f0f0;
+  display: block;
+  margin: 5px;
+  padding: 5px;
+  background-color: white;
+  width: 88%;
+}
+
+.form-label {
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.form-button {
+  border-radius: 5px;
+  padding: 10px;
+  background-color: green;
+  box-shadow: 0px 7px lightgreen;
+  color: white;
+  font-weight: 700;
+  margin: 10px;
+}
