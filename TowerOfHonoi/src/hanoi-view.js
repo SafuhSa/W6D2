@@ -8,6 +8,7 @@ class View {
   }
 
   setupTowers(){
+    
     let $towers = $('<div>').addClass('towers');
 
     let $pile = $('<ul>');
